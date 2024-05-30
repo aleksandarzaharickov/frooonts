@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://hotdog.nomorepartiesco.ru/api'
+export const BASE_URL = 'http://domen2.nomorepartiesco.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
